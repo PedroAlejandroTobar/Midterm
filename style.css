@@ -1,0 +1,10 @@
+table{
+    border: 5px blue solid;
+    border-collapse: collapse;
+     margin: auto; /*Centers the table*/
+}
+
+td,th{
+    border: 1px black solid;
+}
+
